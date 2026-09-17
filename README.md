@@ -80,31 +80,16 @@ Produces Figure 1 of the paper for `all-mpnet-base-v2` and `Qwen3-Embedding-0.6B
 
 If you use this code, please cite:
 
-```bibtex
-@misc{opitz2026embeddingmodelsmeasure,
-      title={Embedding Models Measure in Peculiar Ways},
-      author={Juri Opitz and Andrianos Michail},
-      year={2026},
-      eprint={TODO},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://TODO},
-}
+```UPDATE
 ```
 
-## About Impresso
+## Acknowledgements
 
-### Impresso project
-
-[Impresso - Media Monitoring of the Past](https://impresso-project.ch) is an interdisciplinary research project that aims to develop and consolidate tools for processing and exploring large collections of media archives across modalities, time, languages and national borders. The first project (2017-2021) was funded by the Swiss National Science Foundation under grant No. [CRSII5_173719](http://p3.snf.ch/project-173719) and the second project (2023-2027) by the SNSF under grant No. [CRSII5_213585](https://data.snf.ch/grants/grant/213585) and the Luxembourg National Research Fund under grant No. 17498891.
+This work has been supported by the Swiss National Science Foundation (grant no.\ CRSII5\_213585) and by the Luxembourg National Research Fund (grant no.\ 17498891).
 
 ## License
 
-Copyright © 2026 The Impresso team.
 Released under the [GNU Affero General Public License v3 or later](https://github.com/impresso/impresso-pyindexation/blob/master/LICENSE).
 
 ---
 
-<p align="center">
-  <img src="https://github.com/impresso/impresso.github.io/blob/master/assets/images/3x1--Yellow-Impresso-Black-on-White--transparent.png?raw=true" width="350" alt="Impresso Project Logo"/>
-</p>
