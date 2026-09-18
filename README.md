@@ -4,7 +4,7 @@
 
 This repository contains the code for **Embedding Models Measure in Peculiar Ways**, a study of whether text embedding models reflect physical measurements of length, mass, volume and time. For example, we check whether "1 meter" is embedded closer to "105 centimeters" than to "15 kilometers". Across 24 embedding models, we find that embedding similarity follows physical relationships only weakly, and that it is more strongly linked to how numbers look as strings than to their numerical values.
 
-Preprint: [LINK TO BE ADDED](https://TODO)
+[Preprint](https://arxiv.org/abs/2609.20821)
 
 All experiments are in Jupyter notebooks. The main notebook writes its results to `produced_results/`, and its table section builds the LaTeX tables from those files.
 
@@ -15,7 +15,6 @@ All experiments are in Jupyter notebooks. The main notebook writes its results t
 - [Setup](#setup)
 - [Running the Experiments](#running-the-experiments)
 - [Citation](#citation)
-- [About Impresso](#about-impresso)
 - [License](#license)
 
 ## Overview
@@ -80,7 +79,16 @@ Produces Figure 1 of the paper for `all-mpnet-base-v2` and `Qwen3-Embedding-0.6B
 
 If you use this code, please cite:
 
-```UPDATE
+```
+@misc{opitz2026embeddingmodelsmeasurepeculiar,
+      title={Embedding Models Measure in Peculiar Ways}, 
+      author={Juri Opitz and Andrianos Michail},
+      year={2026},
+      eprint={2609.20821},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.20821}, 
+}
 ```
 
 ## Acknowledgements
